@@ -440,26 +440,6 @@ The trial version includes all features with a processing limit:
 - Additional features (coming soon)
 ---
 
-## 🛠️ Technology Stack
-
-### **Frontend**
-- **React 18** - UI framework
-- **Material-UI (MUI)** - Component library
-- **React Router** - Navigation
-- **Context API** - State management
-
-### **Backend**
-- **Electron** - Desktop framework
-- **Python 3.8+** - Processing engine
-- **SQLite** - Vault storage
-- **Cryptography** - Encryption libraries
-
-### **File Processing**
-- **Pandas** - Data manipulation
-- **OpenPyXL** - Excel file handling
-- **CSV** - Standard library
-
----
 
 ## 📄 License
 
@@ -474,5 +454,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/data-anonymizer/issues) • [Request Feature](https://github.com/yourusername/data-anonymizer/issues) • [Documentation](README.md)
 
 </div>
+
 
 
