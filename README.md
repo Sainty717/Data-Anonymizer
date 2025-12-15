@@ -389,19 +389,10 @@ Manage decryption keys for secure vault access.
 
 ### **Minimum Requirements**
 
-- **OS**: Windows 10+, macOS 10.14+, or Linux (Ubuntu 18.04+)
+- **OS**: Windows 10+
 - **RAM**: 4 GB
 - **Storage**: 500 MB free space
-- **Display**: 1280x720 resolution
 
-### **Recommended Requirements**
-
-- **OS**: Latest version of Windows, macOS, or Linux
-- **RAM**: 8 GB or more
-- **Storage**: 2 GB free space
-- **Display**: 1920x1080 resolution or higher
-
----
 
 ## 🐛 Troubleshooting
 
@@ -429,8 +420,6 @@ Manage decryption keys for secure vault access.
 
 ### **Getting Help**
 
-- Check the [full documentation](README.md)
-- Review [troubleshooting guide](TROUBLESHOOTING.md)
 - Open an issue on GitHub
 - Check existing issues for solutions
 
@@ -449,17 +438,6 @@ The trial version includes all features with a processing limit:
 - Unlimited processing
 - Priority support
 - Additional features (coming soon)
-
----
-
-## 📚 Additional Resources
-
-- **[Full Documentation](README.md)** - Complete technical documentation
-- **[Quick Start Guide](QUICKSTART.md)** - Get started in minutes
-- **[Usage Guide](USAGE.md)** - Detailed usage instructions
-- **[White Paper](WHITEPAPER.md)** - Technical specifications
-- **[Privacy Policy](PRIVACY_POLICY_TRIAL.md)** - Privacy and data handling
-
 ---
 
 ## 🛠️ Technology Stack
@@ -489,26 +467,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 🙏 Acknowledgments
-
-- Built with [Electron](https://www.electronjs.org/)
-- UI components from [Material-UI](https://mui.com/)
-- Encryption powered by [cryptography](https://cryptography.io/)
-
----
-
 <div align="center">
 
 **Made with ❤️ for data privacy and security**
@@ -516,4 +474,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 [Report Bug](https://github.com/yourusername/data-anonymizer/issues) • [Request Feature](https://github.com/yourusername/data-anonymizer/issues) • [Documentation](README.md)
 
 </div>
+
 
