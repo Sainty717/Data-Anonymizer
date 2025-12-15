@@ -224,13 +224,6 @@ Manage decryption keys for secure vault access.
 - **Chips**: Label and status indicators
 - **Tooltips**: Helpful information on hover
 
-### **Color Scheme**
-
-- **Primary**: Blue (#1976d2) - Main actions and links
-- **Secondary**: Purple (#9c27b0) - Secondary actions
-- **Success**: Green (#4caf50) - Success states
-- **Warning**: Orange (#ff9800) - Warnings
-- **Error**: Red (#f44336) - Errors
 
 ---
 
@@ -454,6 +447,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/data-anonymizer/issues) • [Request Feature](https://github.com/yourusername/data-anonymizer/issues) • [Documentation](README.md)
 
 </div>
+
 
 
 
