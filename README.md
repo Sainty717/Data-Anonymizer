@@ -1,4 +1,4 @@
-# Data Anonymizer - Desktop UI
+# Data Anonymizer
 
 <div align="center">
 
@@ -454,6 +454,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/data-anonymizer/issues) • [Request Feature](https://github.com/yourusername/data-anonymizer/issues) • [Documentation](README.md)
 
 </div>
+
 
 
 
