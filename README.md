@@ -233,8 +233,7 @@ Manage decryption keys for secure vault access.
 
 1. Download the installer for your platform:
    - Windows: `Data Anonymizer Setup.exe`
-   - macOS: `Data Anonymizer.dmg`
-   - Linux: `Data Anonymizer.AppImage`
+
 
 2. Run the installer and follow the on-screen instructions
 
@@ -447,6 +446,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [Report Bug](https://github.com/yourusername/data-anonymizer/issues) • [Request Feature](https://github.com/yourusername/data-anonymizer/issues) • [Documentation](README.md)
 
 </div>
+
 
 
 
